@@ -8,11 +8,13 @@ Just a guy interested in IOT systems, Software engineering, Mathematics, High Pe
     -------------------- Welcome To My Profile ---------------------------
     -----------------                             ------------------------
     --------------                                    --------------------
-    Interest                                Follow On Figma                                                 
-    Software Engineering/ IOT / Maths       https://www.figma.com/@zaw_htet_aung 
     
-    Email                                   Instagram
-    zawhtetaunginfo@yahoo.com               @zaw_htet_aung76
+    Interest                                             Follow On Figma                                                 
+    Software Engineering/ IOT / Maths                    @zaw_htet_aung
+    
+    
+    Email                                                Instagram
+    zawhtetaunginfo@yahoo.com                            @zaw_htet_aung76
     =====================================================================
     =====================================================================
     =====================================================================
