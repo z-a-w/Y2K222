@@ -1,5 +1,22 @@
-#### Hi there 👋 I'm Zaw Htet Aung
+# Hello I Am Zaw Htet Aung
+Just a guy interested in IOT systems, Software engineering, Mathematics, High Performance
 
-- 🔭 I’m currently working on ... Techmation Myanmar
-- 🌱 I’m currently learning ... Python & other staff
-- 📫 How to reach me: ... zawhtetaunginfo@yahoo.com
+    > ./greet
+    
+    Running greeting application ....
+    
+    -------------------- Welcome To My Profile ---------------------------
+    -----------------                             ------------------------
+    --------------                                    --------------------
+    Interest                                Follow On Figma                                                 
+    Software Engineering/ IOT / Maths       https://www.figma.com/@zaw_htet_aung 
+    
+    Email                                   Instagram
+    zawhtetaunginfo@yahoo.com               @zaw_htet_aung76
+    =====================================================================
+    =====================================================================
+    =====================================================================
+    
+    Exiting program ...
+    
+    > |
